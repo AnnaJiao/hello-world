@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "MusicPlayer\UI.csproj", "{B067C16D-0535-4762-B2CB-1A2262267957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{14DD594F-B395-4ECF-82E7-F3559CCD7128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B067C16D-0535-4762-B2CB-1A2262267957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B067C16D-0535-4762-B2CB-1A2262267957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B067C16D-0535-4762-B2CB-1A2262267957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B067C16D-0535-4762-B2CB-1A2262267957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DD594F-B395-4ECF-82E7-F3559CCD7128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DD594F-B395-4ECF-82E7-F3559CCD7128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DD594F-B395-4ECF-82E7-F3559CCD7128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DD594F-B395-4ECF-82E7-F3559CCD7128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F3A5D5-5AAD-44D8-A808-D2249FE92183}
+	EndGlobalSection
+EndGlobal
